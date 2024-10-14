@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_base_addon_base_addon,base_addon.base_addon,model_base_addon_base_addon,base.group_user,1,1,1,1
